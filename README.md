@@ -1,3 +1,4 @@
 # Joke
 ## Used Chuck Norris Jokes API
-## Гsed XMLHttpRequest
+## Used XMLHttpRequest
+## Link to site https://maxim-prog292.github.io/Joke/
